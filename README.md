@@ -1,10 +1,10 @@
-# Hi there, I'm Bryon Smith II 👋
+# Hi, I'm Bryon 👋
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&link=https://www.linkedin.com/in/bryon-smith-ii-06a5a62a0/)
 
 ## 👨‍💻 About Me
 
-Dynamic IT and Cybersecurity student with hands-on experience in campus engagement and sales, complemented by solid skills in networking and scripting. I am committed to continuous learning and teamwork, always seeking opportunities to apply my technical expertise and contribute to innovative IT projects.
+I'm a dynamic IT and Cybersecurity student with hands-on experience in campus engagement and sales, complemented by my solid skills in networking and scripting. I am committed to continuous learning and teamwork, always seeking opportunities to apply my technical expertise and contribute to innovative IT projects.
 
 - 🎓 Currently studying Information Technology & Cybersecurity
 - 🛠️ Skills: Python, JavaScript, Scripting, Encryption, Networking, C++
