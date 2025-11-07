@@ -19,10 +19,4 @@ I'm a dynamic IT and Cybersecurity student with hands-on experience in campus en
 - **Cybersecurity:** Encryption, vulnerability assessment
 - **Scripting:** Automation and tool development
 
-## 📫 Get in Touch
-
-- LinkedIn: [bryon-smith-ii-06a5a62a0](https://www.linkedin.com/in/bryon-smith-ii-06a5a62a0/)
-
----
-
 *Let's connect and build something amazing together!*
